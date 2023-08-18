@@ -5,6 +5,8 @@ I'm **Isaiah**, a Network & Software Engineer from Canada. I'm the proud owner o
 ### Connect with me:
 - 📷 [Instagram: nebulamods](https://www.instagram.com/nebulamods)
 - 📊 [Wakatime: @nebula](https://wakatime.com/@nebula)
+- 📧 [Email: nebula@orbitalsolutions.ca](mailto://nebula@orbitalsolutions.ca)
+- 🎮 [Discord: nebulamods](https://discord.com/user/nebulamods)
 
 [![wakatime](https://wakatime.com/badge/user/a52b878a-4250-4b8a-a900-f388c38dbc82.svg)](https://wakatime.com/@a52b878a-4250-4b8a-a900-f388c38dbc82)
 
