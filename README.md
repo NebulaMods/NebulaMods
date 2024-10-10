@@ -17,8 +17,8 @@ In the realm of networking, I own **AS 397441**, registered under the name "Nebu
 - 🌍 [Orbital, Inc.](https://github.com/Orbital-Inc) - Official repositories for Orbital, Inc.
 
 ## Popular Repositories
-### NebulaMods Projects
-- [Tiny-Proxy](https://github.com/NebulaMods/Tiny-Proxy) - A lightweight proxy designed for high performance and efficiency.
+### Personal Projects
+- [Tiny-Proxy](https://github.com/NebulaMods/Tiny-Proxy) - A lightweight proxy written in golang designed for high performance and efficiency.
 - [Discord-Bot-Template](https://github.com/NebulaMods/Discord-Bot-Template) - A template for building Discord bots using Discord.Net, featuring support for slash commands.
 - [CameraViewer](https://github.com/NebulaMods/CameraViewer) - A C# project for viewing RTSP camera streams.
 
